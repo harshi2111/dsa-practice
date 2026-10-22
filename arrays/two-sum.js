@@ -51,11 +51,11 @@ var twoSumHashMap = function(nums, target) {
     for (let i = 0; i < nums.length; i++) {
         let complement = target - nums[i]; // What number do we need to reach the target?
 
-        If the complement is already in our map, we found our pair!
+        //If the complement is already in our map, we found our pair!
         if (map.has(complement)) {
             return [map.get(complement), i];
         }
-        Otherwise, store the current number and its index, then keep moving forward
+        //Otherwise, store the current number and its index, then keep moving forward
         map.set(nums[i], i)}};
 
 // TEST EXAMPLE:
