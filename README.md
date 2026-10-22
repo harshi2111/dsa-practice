@@ -12,6 +12,7 @@ Topics Covered
 - Arrays
 - Strings
 - Hash Maps
+- Set
 - Other topics as I progress
 
 Languages
