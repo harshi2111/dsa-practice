@@ -1,4 +1,4 @@
-# DSA Practice
+# DSA JavaScript
 A collection of Data Structures and Algorithms problems I solve while preparing for software engineering interviews.
 
 Goals
